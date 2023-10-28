@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run with vertx" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="io.vertx.core.Launcher" />
+    <module name="fsx-saas" />
+    <option name="PROGRAM_PARAMETERS" value="run io.github.marcosox.fsxsaas.MainVerticle" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
